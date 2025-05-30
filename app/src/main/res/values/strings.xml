@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordleMovil</string>
+    <string name="introduce_nombre">Introduce tu nombre</string>
+    <string name="boton_comenzar">Comenzar</string>
+    <string name="boton_validar">Validar palabra</string>
+    <string name="boton_reiniciar">Reiniciar</string>
+    <string name="mensaje_estado_inicial">Escribe una palabra de 5 letras en la fila activa y presiona Validar.</string>
+    <string name="mensaje_falta_nombre">Tenés que poner un nombre para jugar</string>
+    <string name="mensaje_vamos_adivina">¡Vamos %1$s, adiviná la palabra!</string>
+    <string name="mensaje_palabra_no_valida">La palabra no es válida</string>
+    <string name="mensaje_completa_letras">Debes completar todas las letras</string>
+    <string name="mensaje_gano">¡Felicidades %1$s, adivinaste!</string>
+    <string name="mensaje_perdio">Perdiste. La palabra era: %1$s</string>
+    <string name="mensaje_intento">Intento %1$d de %2$d</string>
+    <string name="mensaje_reiniciar">Vamos de nuevo %1$s, intentá adivinar</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordleMobile</string>
+    <string name="introduce_nombre">Enter your name</string>
+    <string name="boton_comenzar">Start</string>
+    <string name="boton_validar">Check word</string>
+    <string name="boton_reiniciar">Restart</string>
+    <string name="mensaje_estado_inicial">Type a 5-letter word in the active row and press Check.</string>
+    <string name="mensaje_falta_nombre">You must enter a name to play</string>
+    <string name="mensaje_vamos_adivina">Lets go %1$s, guess the word!</string>
+    <string name="mensaje_palabra_no_valida">The word is not valid</string>
+    <string name="mensaje_completa_letras">You must fill all the letters</string>
+    <string name="mensaje_gano">Congratulations %1$s, you guessed it!</string>
+    <string name="mensaje_perdio">You lost. The word was: %1$s</string>
+    <string name="mensaje_intento">Attempt %1$d of %2$d</string>
+    <string name="mensaje_reiniciar">Lets go %1$s, Go Again!</string>
+</resources>
